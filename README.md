@@ -15,4 +15,4 @@ This python script will connect to your Meshtastic node, and return a list of no
 
 Note: If you use Serial, the script will attempt to find your serial port automatically. You can also change the code to directly specify your serial port, by changing this line:
 
-<blockquote>interface = meshtastic.serial_interface.SerialInterface(devPath='/dev/ttyUSB0')  # Replace with your port</blockquote>
+<blockquote>return meshtastic.serial_interface.SerialInterface("/dev/ttyUSB0") # Replace with your serial port address, for Windows, use "COMx", eg "COM14"</blockquote>
