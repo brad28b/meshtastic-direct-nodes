@@ -10,7 +10,7 @@ This python script will connect to your Meshtastic node, and return a list of no
 <blockquote>pip3 install -r requirements.txt</blockquote>
 
 # Usage
-<blockquote>python direct_mesh_nodes.py</blockquote>
+<blockquote>python meshtastic-direct-nodes.py</blockquote>
 
 Note: If you use Serial, the script will attempt to find your serial port automatically. You can also change the code to directly specify your serial port, by changing this line:
 
