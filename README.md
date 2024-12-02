@@ -1,8 +1,7 @@
 # meshtastic-direct-nodes
 This python script will connect to your Meshtastic node, and return a list of nodes that your node is directly connected to (that is, Zero hops away).
 
-![Screenshot 2024-12-03 102154](https://github.com/user-attachments/assets/9f1b6c3e-dfd7-4689-ba17-f9e3cbc36b62)
-
+![Screenshot 2024-12-03 103843](https://github.com/user-attachments/assets/8dfe8a00-020b-452f-a33b-232d1e09d170)
 
 # Installation
 <blockquote>cd ~</blockquote>
